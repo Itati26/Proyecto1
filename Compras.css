@@ -1,0 +1,18 @@
+.boton-compra {
+    background-color: #ff6600;
+    color: white;
+    padding: 12px 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.boton-compra:hover {
+    background-color: #cc5200;
+}
+
+.boton-compra:active {
+    background-color: #993d00;
+}
